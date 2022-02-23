@@ -34,3 +34,8 @@ iterations can help. You are are waiting 15+ minutes regardless,
 so take the time to get the full experience of a better set depth.
 This may cause you to hit the caps of system storage/resource 
 allocation. Do so at your own risk.
+
+## Sample Outputs
+![blackred-yellowgreen](https://user-images.githubusercontent.com/57071649/155384566-98a4220c-4ce2-402e-b455-abfbc4234b91.jpg)
+![blackgreen-yellowred](https://user-images.githubusercontent.com/57071649/155384628-0c1481c2-0eb7-47a0-afed-87e5663ac92a.jpg)
+![dracula-bgpurp_30-greenpink](https://user-images.githubusercontent.com/57071649/155384692-2db85950-2809-4927-b3c6-5f740e4cca8a.jpg)
